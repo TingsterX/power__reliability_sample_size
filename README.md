@@ -17,7 +17,6 @@ Ref: Kanyongo et al. (2017) Reliability and Statistical Power: How Measurement F
 
 ## Interactions between reliability, sample size and effect size
 
-## Two sample t-test
 ![figure](https://github.com/TingsterX/power__reliability_sample_size/blob/master/figure.jpeg "power analysis")
 
 
