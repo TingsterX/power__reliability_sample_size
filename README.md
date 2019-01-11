@@ -18,7 +18,7 @@ Ref: Kanyongo et al. (2017) Reliability and Statistical Power: How Measurement F
 ## Interactions between reliability, sample size and effect size
 
 ## Two sample t-test
-![Two Sample t-test](https://github.com/TingsterX/power__reliability_sample_size/blob/master/Figures/Rplot_line_2sample_t_test.png){:height="200px" width="200px"}
+![Two Sample t-test](https://github.com/TingsterX/power__reliability_sample_size/blob/master/Figures/Rplot_line_2sample_t_test.png)
 ## Paired t-test
 ![paired t-test](https://github.com/TingsterX/power__reliability_sample_size/blob/master/Figures/Rplot_line_paired_t_test.png "Field Map - paired t-test")
 ## One-Way ANOVA (levels=3)
